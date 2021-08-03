@@ -6,6 +6,7 @@ export class section2 extends Component {
             <div>
                 <img src={desoc} className="" style={{width:""}}></img>
                 <img src={desoc} className="" style={{width:""}}></img>
+                <img src={desoc} className="" style={{width:""}}></img>
             </div>
         )
     }
